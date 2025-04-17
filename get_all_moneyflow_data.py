@@ -14,7 +14,7 @@ pymysql.install_as_MySQLdb()
 
 # mysql api setting
 username = 'root'
-password = '4513854'
+password = '123456'
 engine_ts = create_engine('mysql://' + username + ':' + password + '@localhost/china_a_shares')
 
 
